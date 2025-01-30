@@ -4,12 +4,17 @@
 
 ## Arquitetura e Stack A aplicação foi desenvolvida utilizando a linguagem de programação Java para a lógica de negócios e HTML/CSS para a interface do usuário. A arquitetura segue o padrão MVC (Model-View-Controller), que separa a aplicação em três componentes principais:
 
-## usuários : Pessoas entregadoras parceiras I’m hungry, de todas as modalidades de entrega — Nuvem Fixo em Restaurante e Operador Logístico. Cliente comun.
-
-## carrinho : dentro do carrinho, o usuário poderá se aproveitar de: verificar os itens que escolheu, junto de seus atributos utilizar-se de cupons caso possua escolher a forma de pagamento verificar o local de entrega do pedido escolher a forma de entrega
+## PM canvas :
+![17382575686427903356188637539706](https://github.com/user-attachments/assets/1a6380eb-ed03-4dec-a396-98f9698c1bec)
 
 ## model protopersona 
 ![17382567469526788531823060687017](https://github.com/user-attachments/assets/3d68b23a-da57-40ff-abcf-94fa77a95e26)
+
+
+## requisitos:usuários : Pessoas entregadoras parceiras I’m hungry, de todas as modalidades de entrega — Nuvem Fixo em Restaurante e Operador Logístico. Cliente comun.
+
+## carrinho : dentro do carrinho, o usuário poderá se aproveitar de: verificar os itens que escolheu, junto de seus atributos utilizar-se de cupons caso possua escolher a forma de pagamento verificar o local de entrega do pedido escolher a forma de entrega
+
 
 ## produtos : usuário vera oque ele irá comprar 
 
@@ -21,4 +26,5 @@
 
 ## protótipo: 
 ![1738257516919833142101723902201](https://github.com/user-attachments/assets/127a7e67-92de-4ea0-b233-9f6fe9f1f1d7)
+
 
