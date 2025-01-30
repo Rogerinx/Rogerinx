@@ -43,3 +43,6 @@
 ![1738257516919833142101723902201](https://github.com/user-attachments/assets/127a7e67-92de-4ea0-b233-9f6fe9f1f1d7)
 
 
+## criação do BMC
+
+https://www.canva.com/design/DAGdsbdsuWA/KIsYB697U7SwdW7UBbAYCQ/edit?utm_content=DAGdsbdsuWA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
