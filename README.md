@@ -48,38 +48,6 @@
 https://www.canva.com/design/DAGdsbdsuWA/KIsYB697U7SwdW7UBbAYCQ/edit?utm_content=DAGdsbdsuWA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
-## codigo html : <!DOCTYPE html>
-- <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Restaurante ParaDS</title>
-    <link rel="stylesheet" href="styles.css">
-    <script defer src="script.js"></script>
-</head>
-<body>
-    <header>
-        <h1>Restaurante ParaDS</h1>
-        <nav>
-            <button id="menu-btn">☰</button>
-            <ul id="menu">
-                <li><a href="cardapio.html">Cardápio</a></li>
-                <li><a href="contato.html">Contato</a></li>
-                <li><a href="sobre-nos.html">Sobre</a></li>
-            </ul>
-        </nav>
-    </header>
-    
-    <section>
-        <h2>Bem-vindo ao Restaurante ParaDS</h2>
-        <p>Descubra mais sobre nossos pratos e nossa história visitando as páginas do menu.</p>
-    </section>
-    
-    <footer>
-        <p>&copy; 2025 Restaurante ParaDS - Todos os direitos reservados.</p>
-    </footer>
-</body>
-</html>
 
 ## codigo css :
 - /* Resetando margens e paddings padrão */
