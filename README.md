@@ -11,14 +11,22 @@
 ![17382567469526788531823060687017](https://github.com/user-attachments/assets/3d68b23a-da57-40ff-abcf-94fa77a95e26)
 
 
-## requisitos:usuários : Pessoas entregadoras parceiras I’m hungry, de todas as modalidades de entrega — Nuvem Fixo em Restaurante e Operador Logístico. Cliente comun.
+## requisitos:
 
-## carrinho : dentro do carrinho, o usuário poderá se aproveitar de: verificar os itens que escolheu, junto de seus atributos utilizar-se de cupons caso possua escolher a forma de pagamento verificar o local de entrega do pedido escolher a forma de entrega
+- usuários : Pessoas entregadoras parceiras I’m hungry, de todas as modalidades de entrega — Nuvem Fixo em Restaurante e Operador Logístico. Cliente comun.
+
+## carrinho :
+
+- dentro do carrinho, o usuário poderá se aproveitar de: verificar os itens que escolheu, junto de seus atributos utilizar-se de cupons caso possua escolher a forma de pagamento verificar o local de entrega do pedido escolher a forma de entrega
 
 
-## produtos : usuário vera oque ele irá comprar 
+## produtos : 
 
-## pratos : Pratos culinários saborosos e baratos, atrativos para clientes: Cada restaurante parceiro pode colocar a descrição de seus pratos nome do prato fotos ingredientes Os restaurantes e pratos serão classificados para facilitar a busca do usuario final
+- usuário vera oque ele irá comprar 
+
+## pratos : 
+
+- Pratos culinários saborosos e baratos, atrativos para clientes: Cada restaurante parceiro pode colocar a descrição de seus pratos nome do prato fotos ingredientes Os restaurantes e pratos serão classificados para facilitar a busca do usuario final
 
 ## preco : o cliente verá o preço de cada produto cujo ele pretende comprar o preço do pedido final pode ser visto no carrinho descontos podem ser oferecidos pelos restaurantes e pela plataforma I’m hungry
 
