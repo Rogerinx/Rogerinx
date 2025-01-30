@@ -1,8 +1,11 @@
 
 
-## O iHungry é um aplicativo de delivery de alimentos que conecta usuários a uma ampla variedade de restaurantes locais. Com uma interface intuitiva e amigável, os usuários podem navegar por menus, fazer pedidos e acompanhar o status de suas entregas em tempo real. O objetivo é proporcionar uma experiência de pedido de comida rápida, conveniente e confiável.
+## O iHungry :
+- I hungry é um aplicativo de delivery de alimentos que conecta usuários a uma ampla variedade de restaurantes locais. Com uma interface intuitiva e amigável, os usuários podem navegar por menus, fazer pedidos e acompanhar o status de suas entregas em tempo real. O objetivo é proporcionar uma experiência de pedido de comida rápida, conveniente e confiável.
 
-## Arquitetura e Stack A aplicação foi desenvolvida utilizando a linguagem de programação Java para a lógica de negócios e HTML/CSS para a interface do usuário. A arquitetura segue o padrão MVC (Model-View-Controller), que separa a aplicação em três componentes principais:
+## Arquitetura e Stack :
+
+- A aplicação foi desenvolvida utilizando a linguagem de programação Java para a lógica de negócios e HTML/CSS para a interface do usuário. A arquitetura segue o padrão MVC (Model-View-Controller), que separa a aplicação em três componentes principais:
 
 ## PM canvas :
 ![17382575686427903356188637539706](https://github.com/user-attachments/assets/1a6380eb-ed03-4dec-a396-98f9698c1bec)
@@ -28,9 +31,13 @@
 
 - Pratos culinários saborosos e baratos, atrativos para clientes: Cada restaurante parceiro pode colocar a descrição de seus pratos nome do prato fotos ingredientes Os restaurantes e pratos serão classificados para facilitar a busca do usuario final
 
-## preco : o cliente verá o preço de cada produto cujo ele pretende comprar o preço do pedido final pode ser visto no carrinho descontos podem ser oferecidos pelos restaurantes e pela plataforma I’m hungry
+## preco :
 
-## formas de pagamento : Formas de pagamento que o cliente pode optar, dentre elas estão: pix, cartão(débito e crédito) dinheiro.
+- o cliente verá o preço de cada produto cujo ele pretende comprar o preço do pedido final pode ser visto no carrinho descontos podem ser oferecidos pelos restaurantes e pela plataforma I’m hungry
+
+## formas de pagamento : 
+
+- Formas de pagamento que o cliente pode optar, dentre elas estão: pix, cartão(débito e crédito) dinheiro.
 
 ## protótipo: 
 ![1738257516919833142101723902201](https://github.com/user-attachments/assets/127a7e67-92de-4ea0-b233-9f6fe9f1f1d7)
