@@ -1,0 +1,191 @@
+## css
+- /* Estilos para o corpo */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Estilos do cabeçalho */
+header {
+    background-color: #eb1717;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Estilos de navegação */
+nav {
+    margin-top: 10px;
+}
+
+#menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+#menu li {
+    display: inline;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+#menu li a:hover {
+    color: #0e0d0d;
+}
+
+/* Estilos do botão de menu */
+#menu-btn {
+    display: none;
+    background-color: #0c0b0b;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#menu-btn:hover {
+    background-color: #f4a261;
+}
+
+/* Estilos das seções */
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: white;
+    border-radius: 8px;
+}
+
+h2 {
+    margin-bottom: 10px;
+    color: #161616;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #0e0d0d;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Estilos para telas pequenas */
+@media (max-width: 768px) {
+    #menu {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #menu li {
+        margin-bottom: 10px;
+    }
+
+    #menu-btn {
+        display: block;
+    }
+ckground-color: #fff;
+    border-radius: 8px;
+}
+
+.category {
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+.category h3 {
+    font-size: 1.8rem;
+    color: #333;
+    border-bottom: 2px solid #0c0c0c;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.category ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.category ul li {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.category ul li strong {
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.category ul li p {
+    font-size: 1rem;
+    color: #666;
+}
+
+#cardapio {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+/* Definir a imagem de fundo para o cardápio (segundo contêiner) */
+#cardapio {
+    max-width: 1800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image: url('bandeira-do-para.jpg'); /* Altere o caminho para a imagem */
+    background-size: cover; /* Faz a imagem cobrir toda a seção */
+    background-position: center; /* Centraliza a imagem */
+    background-attachment: scroll; /* A imagem rola com o conteúdo */
+    border-radius: 8px;
+    color: white; /* Mudando a cor do texto para branco para garantir boa legibilidade sobre o fundo */
+}
+
+/* Outras personalizações, se necessário */
+header {
+    padding: 20px;
+    background-color: rgb(219, 15, 15); /* Fundo branco com opacidade */
+    border-bottom: 2px solid #0c0c0c;
+    position: relative;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo escuro com opacidade */
+    color: white;
+    padding: 10px;
+    text-align: center;
+}r>
+    #menu.active {
+        display: flex;
+    }
+}
