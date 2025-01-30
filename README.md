@@ -52,6 +52,6 @@ https://www.canva.com/design/DAGdsbdsuWA/KIsYB697U7SwdW7UBbAYCQ/edit?utm_content
 - Roger f. cardoso
 - Matheus silva
 - José Eduardo
-- Eduardo arujo
+- Eduardo Araujo
 - Alisson Dantas
   
