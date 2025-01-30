@@ -46,3 +46,12 @@
 ## criação do BMC
 
 https://www.canva.com/design/DAGdsbdsuWA/KIsYB697U7SwdW7UBbAYCQ/edit?utm_content=DAGdsbdsuWA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## feito por :
+
+- Roger f. cardoso
+- Matheus silva
+- José Eduardo
+- Eduardo arujo
+- Alisson Dantas
+  
